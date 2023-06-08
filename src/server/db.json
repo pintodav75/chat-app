@@ -1,0 +1,185 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "lastMessageTimestamp": 1625637849
+    },
+    {
+      "id": 2,
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "lastMessageTimestamp": 1620284667
+    },
+    {
+      "id": 3,
+      "recipientId": 1,
+      "recipientNickname": "Thibaut",
+      "senderId": 4,
+      "senderNickname": "Elodie",
+      "lastMessageTimestamp": 1625648667
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "conversationId": 1,
+      "timestamp": 1625637849,
+      "authorId": 1,
+      "body": "Bonjour c'est le premier message de la première conversation"
+    },
+    {
+      "id": 2,
+      "conversationId": 1,
+      "timestamp": 1625637867,
+      "authorId": 1,
+      "body": "Bonjour c'est le second message de la première conversation"
+    },
+    {
+      "id": 3,
+      "conversationId": 1,
+      "timestamp": 1625648667,
+      "authorId": 2,
+      "body": "Bonjour c'est le troisième message de la première conversation"
+    },
+    {
+      "id": 4,
+      "conversationId": 2,
+      "timestamp": 1620284667,
+      "authorId": 2,
+      "body": "Bonjour c'est le premier message de la seconde conversation"
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686093235154,
+      "body": "mon nouveau message !",
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686093609123,
+      "body": "mon nouveau message !",
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "authorId": 2,
+      "timestamp": 1686093636666,
+      "body": "mon nouveau message de Jerem !",
+      "id": 7
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095208872,
+      "body": "mon nouveau message de Jerem !",
+      "id": 8
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095232848,
+      "body": "mon nouveau message de Jerem !",
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095331149,
+      "body": "",
+      "id": 10
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095348950,
+      "body": "",
+      "id": 11
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095364717,
+      "body": "DACIIIIIDD",
+      "id": 12
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095369349,
+      "body": "DACIIIIIDD",
+      "id": 13
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686095556441,
+      "body": "comment tu vas jerem ?",
+      "id": 14
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686096060471,
+      "body": "reponds jeremi",
+      "id": 15
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686096159495,
+      "body": "t'es la jerem ?",
+      "id": 16
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686096328869,
+      "body": "bah alors tes parti dormir",
+      "id": 17
+    },
+    {
+      "conversationId": 1,
+      "authorId": 2,
+      "timestamp": 1686096347308,
+      "body": "non je suis la",
+      "id": 18
+    },
+    {
+      "conversationId": 1,
+      "authorId": 1,
+      "timestamp": 1686096362572,
+      "body": "ok ok",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nickname": "Thibaut",
+      "token": "xxxx"
+    },
+    {
+      "id": 2,
+      "nickname": "Jeremie",
+      "token": "xxxx"
+    },
+    {
+      "id": 3,
+      "nickname": "Patrick",
+      "token": "xxxx"
+    },
+    {
+      "id": 4,
+      "nickname": "Elodie",
+      "token": "xxxx"
+    }
+  ]
+}
